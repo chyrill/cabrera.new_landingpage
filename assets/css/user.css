@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    font-family: Nunito, sans-serif;
+}
+
+.navbar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #60b0f5;
+}
+
+.nav-item {
+    color: #60b0f5;
+}
+
+.navbar-toggler {
+    border-color: #60b0f5;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(96,176,245, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+#welcome {
+    background-color: #60b0f5;
+    background-size: cover;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#products {
+    background-color: #60b0f5;
+    background-size: cover;
+}
+
+.txtinput {
+    border: 2px solid #6db2f1;
+}
+
+#getstart {
+    border: 2px solid #fff;
+    color: #fff;
+    width: 200px;
+    display: block;
+    height: 80px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
