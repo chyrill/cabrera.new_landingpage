@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.navbar-toggler {
+    border-color: #47525E;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(71,82,94, 100)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar {
+    background-color: #ffffff;
+    box-shadow: 0px 1px 1px #47525E;
+}
+
+.navbar-brand {
+    color: #47525E;
+}
+
+.nav-item>a {
+    color: #47525E;
+}
+
+#home {
+    background: url("../../assets/img/image1.jpg") no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+#header-text {
+    text-align: center;
+    color: #fff;
+}
+
+#getStarted {
+    background-color: #00BCD4;
+    color: #FFFFFF;
+    border: none;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+#getStarted:hover {
+    background-color: #00BCDA;
+}
+
+#services {
+    padding-top: 100px;
+    background-color: #212121;
+    width: 100vw;
+    height: 100%;
+    padding-bottom: 100px;
+}
+
+.card {
+    color: #fff;
+    margin: 0 30px 0 30px;
+    padding: 30% 0 30% 0px;
+    background-color: transparent;
+    border: none;
+}
+
+.card-title {
+    padding-top: 30px;
+}
+
+#products {
+    height: 100vh;
+    width: 100vw;
+}

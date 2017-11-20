@@ -23,6 +23,7 @@ body {
 #welcome {
     background-color: #60b0f5;
     background-size: cover;
+    height: 100vh;
 }
 
 hr {
